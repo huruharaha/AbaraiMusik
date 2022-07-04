@@ -98,7 +98,7 @@ $ bash start
 
 ## License
 
-Distributed under the [GNU General Public License v3.0 License.](https://github.com/Ndiproject/NdiMusicBot/blob/main/LICENSE) See `LICENSE.md` for more information.
+Distributed under the [MIT License](https://github.com/Ndiproject/NdiMusicBot/blob/master/LICENSE) See `LICENSE.md` for more information.
 
 ## Acknowledgement
 
