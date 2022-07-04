@@ -69,7 +69,7 @@
       "required": false
     },
     "STRING_SESSION1": {
-      "description": "Masukkan string session pyrogram kalian. Jika belum ada silahkan ambil di https://replit.com/@Achmad-TaufiqTa/NdiString-1?lite=1&outputonly=1.",
+      "description": "Masukkan string session pyrogram kalian. Jika belum ada silahkan ambil di https://replit.com/@Ndiproject/Ndi-String?v=1.",
       "value": "",
       "required": true
     },
