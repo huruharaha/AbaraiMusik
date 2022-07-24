@@ -61,7 +61,7 @@ def start_pannel():
             [
                  InlineKeyboardButton(
                     text="🥸 ᴏᴡɴᴇʀ 🥸", 
-                url=f"https://t.me/gausahsokablunyet",
+                url=f"https://t.me/Renjiiiiiiii1",
                )
             ],
         ]
@@ -86,7 +86,7 @@ def start_pannel():
             [
                  InlineKeyboardButton(
                     text="🥸 ᴏᴡɴᴇʀ 🥸", 
-                url=f"https://t.me/gausahsokablunyet",
+                url=f"https://t.me/Renjiiiiiiii1",
                )
             ],
         ]
@@ -114,7 +114,7 @@ def start_pannel():
             [
                  InlineKeyboardButton(
                     text="🥸 ᴏᴡɴᴇʀ 🥸", 
-                url=f"https://t.me/gausahsokablunyet",
+                url=f"https://t.me/Renjiiiiiiii1",
                )
             ],
         ]
@@ -160,7 +160,7 @@ def private_panel():
             [
                  InlineKeyboardButton(
                     text="🥸 ᴏᴡɴᴇʀ 🥸", 
-                url=f"https://t.me/gausahsokablunyet",
+                url=f"https://t.me/Renjiiiiiiii1",
                )
             ],
         ]
@@ -187,7 +187,7 @@ def private_panel():
             [
                  InlineKeyboardButton(
                     text="🥸 ᴏᴡɴᴇʀ 🥸", 
-                url=f"https://t.me/gausahsokablunyet",
+                url=f"https://t.me/Renjiiiiiiii1",
                )
             ],
         ]
@@ -217,7 +217,7 @@ def private_panel():
             [
                  InlineKeyboardButton(
                     text="🥸 ᴏᴡɴᴇʀ 🥸", 
-                url=f"https://t.me/gausahsokablunyet",
+                url=f"https://t.me/Renjiiiiiiii1",
                )
             ],
         ]
